@@ -1,2 +1,2 @@
-# ChatLife
-simple chat app to communication with friends or office work like a messenger app
+# ChatChat
+simple chat app by using react-native &amp; firebase
